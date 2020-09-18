@@ -49,5 +49,4 @@ threng.misc.tooltip.job_count=%d/%d正在排队的任务
 threng.misc.tooltip.cpu_count=%d个处理核心
 threng.misc.tooltip.work_rate=%d--每tick处理量
 threng.misc.notif.multiblock_formed=多方块结构完成
-threng.misc.notif.multiblock_failed=多方块结构不完整
 threng.misc.notif.multiblock_unformed=多方块结构被破坏
